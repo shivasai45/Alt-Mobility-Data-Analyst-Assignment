@@ -59,7 +59,7 @@ The cohort matrix shows customer retention behavior across monthly intervals sin
 
 ## 📄 Summary of Findings
 
-Detailed business insights, observations, and recommendations have been compiled in [`Summary_of_Findings.pdf`](Summary_of_Findings.pdf).
+Detailed business insights, observations, and recommendations have been compiled in [`Summary_of_Findings.pdf`](https://github.com/shivasai45/Alt-Mobility-Data-Analyst-Assignment/blob/main/Summary%20of%20Findings.pdf).
 
 ---
 
