@@ -44,7 +44,6 @@ This repository contains the complete solution to Alt Mobility's Data Analyst In
 
 ## 📊 Visualization Preview
 
-> ![Customer Retention Matrix](Visualizations/customer_retention.png)
 
 The cohort matrix shows customer retention behavior across monthly intervals since their first purchase.
 
